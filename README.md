@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @satyabrat
-- 🌱 I’m currently learning cp , app development
-- 📫 How to reach me ...
+- 🌱 I’m currently learning cp , MERN stack development
+- 📫 How to reach me ... satyabratbiswal5413@gmail.com
 
 <!---
 saty4a/saty4a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
